@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layers0": "middleearthmod:item/mithril_ore"
+  }
+}
